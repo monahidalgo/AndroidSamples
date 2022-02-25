@@ -1,1 +1,1 @@
-# Example program
+# Example program, app
